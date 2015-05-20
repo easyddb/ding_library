@@ -81,6 +81,7 @@ projects[opening_hours][download][revision] = "81146d1e8ab63ca70976596d928e4ec46
 projects[opening_hours][patch][] = "http://drupal.org/files/issues/is-string-check-2260505-2.patch"
 projects[opening_hours][patch][] = "http://drupal.org/files/issues/change-path-2270935-2.patch"
 projects[opening_hours][patch][] = "http://www.drupal.org/files/issues/Issue620-single-minute-opening-hours.patch"
+projects[opening_hours][patch][] = "http://drupal.org/files/issues/opening-hours-2445845-1-fix-path-prefix.patch"
 
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
